@@ -4,6 +4,14 @@ gleanindia
 Clean India
 Setup in ubuntu 12.10:
 
+Create a VirtualENV:
+
+      pip install virtualenv
+      virtualenv gleanindia
+      git clone git://github.com/kennethreitz/autoenv.git ~/.autoenv
+      echo 'source ~/.autoenv/activate.sh' >> ~/.bashrc
+      pip install -r requirements.txt
+      
 Download GAE:
 
       cd ~
