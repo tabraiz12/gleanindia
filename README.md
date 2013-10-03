@@ -2,7 +2,7 @@ gleanindia
 ==========
 
 Clean India
-Setup in ubuntu 12.10:
+Setup in ubuntu 13.04:
 
 Create a VirtualENV:
 
